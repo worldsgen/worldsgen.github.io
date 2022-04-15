@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/worldsgen/worldsgen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! It's us, [Worldsgen™](https://github.com/worldsgen/). We're a little group of 4 students in Nicolas-Gatineau in Québec.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The website is not finished yet because we do not know yet how to use Markdown.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
